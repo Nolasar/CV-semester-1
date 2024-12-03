@@ -55,11 +55,19 @@ Both methods replace a specific color in a foreground image with pixels from a b
     * Depends on pc configuration
 
 - **Output Quality**:
-  Both methods produce comparable visual results.  
-  ![Foreground](images/foreground.jpg)
-  ![Background](images/background.jpg)
-  ![Manual result](results/manual.png)
-  ![OpenCV result](results/openCV.png)
+  Both methods produce comparable visual results.
+  - FOREGROUND IMAGE
+    
+    ![Foreground](images/foreground.jpg)
+  - BACKGROUND IMAGE
+    
+    ![Background](images/background.jpg)
+  - MANUAL RESULT
+    
+    ![Manual result](results/manual.png)
+  - OPENCV RESULT
+    
+    ![OpenCV result](results/openCV.png)
 
 ---
 
@@ -86,7 +94,7 @@ The chromakey process works as follows:
 ## 📁 Project Structure
 
 ```
-chromakey-project/
+lab_1/
 │
 ├── images/
 │   ├── foreground.jpg       # Foreground image
@@ -96,7 +104,7 @@ chromakey-project/
 │   ├── manual.png           # Output from the manual method
 │   ├── openCV.png           # Output from the OpenCV method
 │
-├── chromakey.py             # Main script
+├── chromakey.ipynb             # Main script
 ├── requirements.txt         # Dependencies
 └── README.md                # Documentation
 ```
