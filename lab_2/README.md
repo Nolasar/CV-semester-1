@@ -59,7 +59,7 @@ The system is implemented using Python with the OpenCV library. It comprises two
 ![SIFT Matching Result](results/6.png)
 ![SIFT Matching Result](results/8.png)
 ![SIFT Matching Result](results/9.png)
-![SIFT Matching Result](results/horse_isc.png)
+![SIFT Matching Result](results/horse_isc.jpg)
 ![SIFT Matching Result](results/11.png)
 ![SIFT Matching Result](results/12.png)
 
