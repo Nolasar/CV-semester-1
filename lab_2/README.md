@@ -50,15 +50,18 @@ The system is implemented using Python with the OpenCV library. It comprises two
 ![Template Matching Result](results/1.png)
 ![Template Matching Result](results/4.png)
 ![Template Matching Result](results/7.png)
+![Template Matching Result](results/10.png)
 
 #### SIFT Example:
-![SIFT Matching Result](results/2.png)
 ![SIFT Matching Result](results/2.png)
 ![SIFT Matching Result](results/3.png)
 ![SIFT Matching Result](results/5.png)
 ![SIFT Matching Result](results/6.png)
 ![SIFT Matching Result](results/8.png)
 ![SIFT Matching Result](results/9.png)
+![SIFT Matching Result](results/horse_isc.png)
+![SIFT Matching Result](results/11.png)
+![SIFT Matching Result](results/12.png)
 
 
 
